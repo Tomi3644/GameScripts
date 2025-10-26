@@ -1,0 +1,9 @@
+A Cube's Tale Blueprints
+
+BP_ThirdPersonCharacter : https://blueprintue.com/blueprint/zkupvzb6/
+
+BP_PressButton : https://blueprintue.com/blueprint/qhszvltu/
+
+BP_Door : https://blueprintue.com/blueprint/itm8sort/
+
+BP_Laser : https://blueprintue.com/blueprint/q90dwq_s/
